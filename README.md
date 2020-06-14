@@ -11,7 +11,7 @@
 
 For any commits, first create a new branch, make your changes there and then create a pull request.
 
-Once the changes are merged to the `master` branch, it will be automatically deployed to Netlify. Current live version can be fround [here](https://gatsby-portfolio-project.netlify.app/).
+Once the changes are merged to the `master` branch, it will be automatically deployed to Netlify. Current live version can be found [here](https://gatsby-portfolio-project.netlify.app/).
 
 ## What's inside?
 
